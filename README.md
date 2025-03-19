@@ -4,11 +4,11 @@
 
 |項目名|内容|
 |----|----|
-|名前|蓮生 優希|
+<!-- |名前|蓮生 優希| -->
 |生年月|1997 年 12 月|
 |居住地|神奈川県|
-|最終学歴|関西大学 社会学部 社会学科|
-|資格|普通自動車第一種運転免許(AT 限定)|
+<!-- |最終学歴|関西大学 社会学部 社会学科|
+|資格|普通自動車第一種運転免許(AT 限定)| -->
 
 ## スキル
 
@@ -34,7 +34,7 @@ GitHub・GitHub Actions
 
 ## 技術記事
 
-- [Hatena](https://julienll.hatenablog.com/entry/2025/01/24/150740?_gl=1*109ziic*_gcl_au*MTExMDQ1ODI4MS4xNzQxNzcyMzM0)
+<!-- - [Hatena](https://julienll.hatenablog.com/entry/2025/01/24/150740?_gl=1*109ziic*_gcl_au*MTExMDQ1ODI4MS4xNzQxNzcyMzM0) -->
 
 ## 職務経歴詳細
 
